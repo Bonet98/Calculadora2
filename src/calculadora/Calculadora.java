@@ -6,7 +6,7 @@
 package calculadora;
 
 /**
- * NUEVA COPIA DE CALCULADORA2
+ * NUEVA COPIA DE CALCULADORA2 - a
  * @author redes
  */
 public class Calculadora {
